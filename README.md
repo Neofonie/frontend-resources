@@ -17,3 +17,4 @@
 * [medium](https://medium.com/topic/software-engineering) Back-end to front-end.
 * [Hackernoon](https://hackernoon.com/) How hackers start their afternoon.
 * [freeCodeCamp](https://medium.freecodecamp.org) Stories about development, design and data science.
+* [techcrunch](https://techcrunch.com/tag/javascript/) The javascript news stream from techcrunch.
