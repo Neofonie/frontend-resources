@@ -11,3 +11,11 @@
 
 * [Superhero.js](http://superherojs.com/) A stylish list of online resources to learn and understand the basics of JavaScript (ES5), how to organize code, which tools to use, etc. A very good starting point for the beginner and intermediate frontend developer.
 * [JavaScript the right way](http://jstherightway.org/) Another resource for beginners and intermediate developers.
+
+## Magazines
+
+* [medium] (https://medium.com)
+* [Hackernoon] (https://hackernoon.com/) How hackers start their afternoon.
+* [freeCodeCamp] (https://medium.freecodecamp.org) Stories about development, design and data science.
+
+
