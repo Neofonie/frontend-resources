@@ -1,11 +1,8 @@
 # frontend-resources
 
-## Newsletter
+## Checklists
 
-* [Codrops Collective](https://tympanus.net/codrops/collective/) The Collective features the latest news and resources from the web design & web development community. 
-* [Sidebar](https://sidebar.io/) Since 2012, Sidebar has been collecting the best links about UI design, typography, CSS, user research, and all other facets of design.
-* [Web Development Reading List](https://wdrl.info/) A handcrafted, carefully created weekly update resource for web developers by Anselm Hannemann, founder of Colloq. 
-* [ES6.Next News](http://esnextnews.com/) Weekly newsletter curated by Dr. Axel Rauschmayer
+* [Frontend Performance](https://github.com/thedaviddias/Front-End-Performance-Checklist) an exhausted list of elements you should check or at least be aware of
 
 ## Learning Resources
 
@@ -21,6 +18,13 @@
 * [techcrunch](https://techcrunch.com/tag/javascript/) The javascript news stream from techcrunch.
 * [SmashingMagazine](https://www.smashingmagazine.com/) For web designers and developers.
 
-## Checklists
+## Newsletter
 
-* [Frontend Performance](https://github.com/thedaviddias/Front-End-Performance-Checklist) an exhausted list of elements you should check or at least be aware of
+* [Codrops Collective](https://tympanus.net/codrops/collective/) The Collective features the latest news and resources from the web design & web development community. 
+* [Sidebar](https://sidebar.io/) Since 2012, Sidebar has been collecting the best links about UI design, typography, CSS, user research, and all other facets of design.
+* [Web Development Reading List](https://wdrl.info/) A handcrafted, carefully created weekly update resource for web developers by Anselm Hannemann, founder of Colloq. 
+* [ES6.Next News](http://esnextnews.com/) Weekly newsletter curated by Dr. Axel Rauschmayer
+
+## Tech Tutorials
+
+* [Flexbox](https://medium.freecodecamp.org/the-complete-illustrated-flexbox-tutorial-d35c085dbf35) a complete illustrated Flexbox tutorial
