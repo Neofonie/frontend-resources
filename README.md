@@ -20,3 +20,7 @@
 * [freeCodeCamp](https://medium.freecodecamp.org) Stories about development, design and data science.
 * [techcrunch](https://techcrunch.com/tag/javascript/) The javascript news stream from techcrunch.
 * [SmashingMagazine](https://www.smashingmagazine.com/) For web designers and developers.
+
+## Checklists
+
+* [Frontend Performance](https://github.com/thedaviddias/Front-End-Performance-Checklist) an exhausted list of elements you should check or at least be aware of
