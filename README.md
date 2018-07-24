@@ -9,6 +9,7 @@
 * [Web Developer Roadmap 2018](https://github.com/kamranahmedse/developer-roadmap) the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. 
 * [Superhero.js](http://superherojs.com/) A stylish list of online resources to learn and understand the basics of JavaScript (ES5), how to organize code, which tools to use, etc. A very good starting point for the beginner and intermediate frontend developer.
 * [JavaScript the right way](http://jstherightway.org/) Another resource for beginners and intermediate developers.
+* [Cheatsheets](https://devhints.io/) a modest collection of cheatsheets 
 
 ## Magazines
 
