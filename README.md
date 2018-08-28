@@ -1,5 +1,12 @@
 # frontend-resources
 
+## Browser Extensions 
+
+* [Awesome Screenshot](http://www.awesomescreenshot.com/) screen capture & image annotation too
+* [EditThisCookie](http://www.editthiscookie.com/) add, delete, edit, search the cookies on your page
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse/) automated tool for improving the performance, quality, and correctness of your web apps
+* [PerfectPixel](http://www.welldonecode.com/perfectpixel/) put a semi-transparent image overlay over the top of the developed HTML 
+
 ## Checklists
 
 * [Frontend Performance](https://github.com/thedaviddias/Front-End-Performance-Checklist) an exhausted list of elements you should check or at least be aware of
