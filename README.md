@@ -37,4 +37,5 @@
 
 ## Tech Tutorials
 
+* [CSS Grid](https://learncssgrid.com/) a guide to learning CSS grid by @jonsuh
 * [Flexbox](https://medium.freecodecamp.org/the-complete-illustrated-flexbox-tutorial-d35c085dbf35) a complete illustrated Flexbox tutorial
