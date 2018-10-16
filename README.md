@@ -9,16 +9,13 @@
 * [Web Developer](https://chrispederick.com/work/web-developer/) nice outlining for different element types, for example
 * [Postman](https://www.getpostman.com/front-end) working with url endpoints, simulate APIs
 
-## Checklists
-
-* [Frontend Performance](https://github.com/thedaviddias/Front-End-Performance-Checklist) an exhausted list of elements you should check or at least be aware of
-
 ## Learning Resources
 
+* [Cheatsheets](https://devhints.io/) a modest collection of cheatsheets 
+* [Frontend Performance](https://github.com/thedaviddias/Front-End-Performance-Checklist) an exhausted list of elements you should check or at least be aware of
 * [Web Developer Roadmap 2018](https://github.com/kamranahmedse/developer-roadmap) the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. 
 * [Superhero.js](http://superherojs.com/) A stylish list of online resources to learn and understand the basics of JavaScript (ES5), how to organize code, which tools to use, etc. A very good starting point for the beginner and intermediate frontend developer.
 * [JavaScript the right way](http://jstherightway.org/) Another resource for beginners and intermediate developers.
-* [Cheatsheets](https://devhints.io/) a modest collection of cheatsheets 
 
 ## Magazines
 
@@ -34,6 +31,13 @@
 * [Sidebar](https://sidebar.io/) Since 2012, Sidebar has been collecting the best links about UI design, typography, CSS, user research, and all other facets of design.
 * [Web Development Reading List](https://wdrl.info/) A handcrafted, carefully created weekly update resource for web developers by Anselm Hannemann, founder of Colloq. 
 * [ES6.Next News](http://esnextnews.com/) Weekly newsletter curated by Dr. Axel Rauschmayer
+
+## Online Courses
+
+* [CSS Grid (FREE!)](https://cssgrid.io/) learn CSS Grid with Wes Bos in 25 pretty good videos
+* [Javascript30 (FREE!)](https://javascript30.com/) 30 Day Vanilla JS Coding Challenge
+* [What TheFlexBox?! (FREE!)](https://flexbox.io/) a simple, free 20 video course that will help you master CSS Flexbox!
+* [Udemy](https://www.udemy.com/)
 
 ## Tech Tutorials
 
