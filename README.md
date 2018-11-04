@@ -31,6 +31,7 @@
 * [Sidebar](https://sidebar.io/) Since 2012, Sidebar has been collecting the best links about UI design, typography, CSS, user research, and all other facets of design.
 * [Web Development Reading List](https://wdrl.info/) A handcrafted, carefully created weekly update resource for web developers by Anselm Hannemann, founder of Colloq. 
 * [ES6.Next News](http://esnextnews.com/) Weekly newsletter curated by Dr. Axel Rauschmayer
+* [Web Love with Una](https://tinyletter.com/weblove/) the personal (monthly-ish) newsletter of Una Kravets, filled with tiny bits of web love and inspiration. 
 
 ## Online Courses
 
