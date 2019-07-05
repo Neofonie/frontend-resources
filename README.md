@@ -40,6 +40,10 @@
 * [What TheFlexBox?! (FREE!)](https://flexbox.io/) a simple, free 20 video course that will help you master CSS Flexbox!
 * [Udemy](https://www.udemy.com/)
 
+## Podcasts
+
+* [Toolsday](https://spec.fm/podcasts/toolsday) A show by Una Kravets & Chris Dhanaraj about the latest in tech tools, tips, and tricks on Tuesdays at 2 
+
 ## Tech Tutorials
 
 * [CSS Grid](https://learncssgrid.com/) a guide to learning CSS grid by @jonsuh
