@@ -8,6 +8,7 @@
 * [PerfectPixel](http://www.welldonecode.com/perfectpixel/) put a semi-transparent image overlay over the top of the developed HTML
 * [Web Developer](https://chrispederick.com/work/web-developer/) nice outlining for different element types, for example
 * [Postman](https://www.getpostman.com/front-end) working with url endpoints, simulate APIs
+* [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc) "FireBug for designers"
 
 ## Learning Resources
 
@@ -16,6 +17,9 @@
 * [Web Developer Roadmap 2018](https://github.com/kamranahmedse/developer-roadmap) the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. 
 * [Superhero.js](http://superherojs.com/) A stylish list of online resources to learn and understand the basics of JavaScript (ES5), how to organize code, which tools to use, etc. A very good starting point for the beginner and intermediate frontend developer.
 * [JavaScript the right way](http://jstherightway.org/) Another resource for beginners and intermediate developers.
+* [You don't know JS](https://github.com/getify/You-Dont-Know-JS) A free series of books on JS. A little dated, but still worth a read.
+* [Eloquent JavaScript](https://eloquentjavascript.net/) A beginner-friendly resource from which even the experienced developer might learn a thing or two.
+* [Modular JavaScript Book Series](https://github.com/mjavascript) "An open effort to improve our collective understanding of writing robust, well-tested, and modular applications"
 
 ## Magazines
 
@@ -43,8 +47,11 @@
 ## Podcasts
 
 * [Toolsday](https://spec.fm/podcasts/toolsday) A show by Una Kravets & Chris Dhanaraj about the latest in tech tools, tips, and tricks on Tuesdays at 2 
+* [JS Air](https://javascriptair.com/) Seems to be dead, but the available episodes are quite good.
 
 ## Tech Tutorials
 
 * [CSS Grid](https://learncssgrid.com/) a guide to learning CSS grid by @jonsuh
+* [Grid Garden](https://cssgridgarden.com/) A playful intro to CSS grid.
 * [Flexbox](https://medium.freecodecamp.org/the-complete-illustrated-flexbox-tutorial-d35c085dbf35) a complete illustrated Flexbox tutorial
+* [Flexbox Froggy](https://flexboxfroggy.com/) A playful intro to CSS flexbox.
