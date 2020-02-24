@@ -7,6 +7,7 @@
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse/) automated tool for improving the performance, quality, and correctness of your web apps
 * [PerfectPixel](http://www.welldonecode.com/perfectpixel/) put a semi-transparent image overlay over the top of the developed HTML
 * [Web Developer](https://chrispederick.com/work/web-developer/) nice outlining for different element types, for example
+* [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/emliamioobfffbgcfdchabfibonehkme) measure elements on any web page
 * [Postman](https://www.getpostman.com/front-end) working with url endpoints, simulate APIs
 * [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc) "FireBug for designers"
 
