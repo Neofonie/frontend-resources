@@ -54,7 +54,7 @@
 * [CSS Podcast](https://pod.link/thecsspodcast) All about CSS with Una Kravets and Adam Argyle, Developer Advocates from Google
 * [Shoptalk Show](https://shoptalkshow.com/) A podcast about building websites
 * [Toolsday](https://spec.fm/podcasts/toolsday) A show by Una Kravets & Chris Dhanaraj about the latest in tech tools, tips, and tricks on Tuesdays at 2 
-
+* [programmier.bar](https://www.programmier.bar/podcast) Wollt ihr mehr über Progressive Web Apps, CSS Grids, TypeScript oder andere spezifische Themen der Web- und App-Entwicklung erfahren? Dann hört rein in unseren Podcast! 
 
 ## Tech Tutorials
 
