@@ -53,6 +53,9 @@
 
 ## DOING
 
+### Essentials
+* [Can i use?](https://caniuse.com/) Can i use this or that in this or that browser? Maybe. Take a look.
+
 ### Browser Extensions 
 
 * [Awesome Screenshot](http://www.awesomescreenshot.com/) screen capture & image annotation too
