@@ -1,5 +1,7 @@
 # frontend-resources
 
+# Changes
+
 ## Checklists
 
 * [Frontend Performance](https://github.com/thedaviddias/Front-End-Performance-Checklist) an exhausted list of elements you should check or at least be aware of
